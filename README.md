@@ -5,6 +5,12 @@ This repository contains the hackathon submission for "Building the Next-Gen Age
 1. **Colab Notebook** - A walkthrough and step-by-step guide for the agentic app.
 2. **Demo Code** - The code for the app's demo.
 3. **PowerPoint Presentation** - A detailed presentation outlining the business problem and the proposed solution.
+   
+## Agents used to achieve results:
+1. text_to_aql_to_text – Transforms natural language into AQL queries and converts the results back into text.  
+2. text_to_nx_algorithm_to_text – Interprets natural language to apply specialized NetworkX algorithms and returns the results.  
+3. analyse_networkx – Performs graph analysis from a stakeholder perspective using advanced data analytics algorithms and provides insights.  
+4. visualize_graph – Generates visual representations of graph analytics for better interpretation.
 
 ## Instructions for the app:
 
@@ -36,6 +42,10 @@ Assumptions Made for the App (Demo):
 3. Q&A support to answer all questions
    
 ![image](https://github.com/user-attachments/assets/a41b36b9-c89b-4105-9509-1310c61da8b7)
+
+4. Viusalition capabilities for better analytics:
+![image](https://github.com/user-attachments/assets/c8114fdb-7eed-4eb4-b357-b068a31b5e16)
+
 
 
 

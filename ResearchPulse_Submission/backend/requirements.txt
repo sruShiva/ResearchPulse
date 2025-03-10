@@ -1,0 +1,4 @@
+nx-arangodb
+nx-cugraph-cu12 --extra-index-url https://pypi.nvidia.com
+matplotlib
+google-generativeai

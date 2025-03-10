@@ -1,0 +1,93 @@
+/* Reset Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Arial", sans-serif;
+  }
+  
+  /* Main Container */
+  .research-homepage-container {
+    width: 100vw;
+    height: 100vh;
+    background-color: #000000; /* Pure Black Background */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+  }
+  
+  /* Header Section */
+  .research-homepage-header {
+    margin-bottom: 5vh;
+  }
+  
+  .research-homepage-title {
+    font-size: 3.5vw;
+    font-weight: bold;
+    background: linear-gradient(90deg, #85D3DF, #00FFAD); /* AI Glow Effect */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-transform: uppercase;
+    letter-spacing: 0.2vw;
+  }
+  
+  .research-homepage-subtitle {
+    font-size: 1.8vw;
+    font-weight: 500;
+    color: #cbd5e1; /* Soft White */
+    margin-bottom: 3vh;
+  }
+  
+  /* Buttons Container */
+  .research-homepage-buttons-container {
+    display: flex;
+    gap: 3vw;
+  }
+  
+  /* Button Cards */
+  .research-homepage-button-card {
+    width: 22vw;
+    padding: 3vh;
+    border-radius: 1.5vw;
+    background-color: rgba(255, 255, 255, 0.05); /* Subtle Glassmorphism */
+    text-align: center;
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  }
+  
+  .research-homepage-button-card:hover {
+    transform: translateY(-1vh);
+    box-shadow: 0 0 2vw rgba(0, 255, 173, 0.4); /* Green AI Glow */
+  }
+  
+  /* Buttons */
+  .research-homepage-btn {
+    width: 100%;
+    padding: 2vh;
+    font-size: 1.3vw;
+    border: none;
+    border-radius: 1vw;
+    cursor: pointer;
+    transition: background 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+    color: black;
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.1vw;
+    background: linear-gradient(90deg, #00FFAD, #85D3DF); /* Neon Glow */
+  }
+  
+  .research-homepage-btn:hover {
+    background: linear-gradient(90deg, #85D3DF, #00FFAD); /* Reverse Gradient */
+    box-shadow: 0 0 1.5vw rgba(133, 211, 223, 0.6);
+  }
+  
+  /* Button Descriptions */
+  .research-homepage-button-card p {
+    margin-top: 2vh;
+    font-size: 1.2vw;
+    color: #e2e8f0; /* Softer White */
+    opacity: 0.9;
+  }
+  

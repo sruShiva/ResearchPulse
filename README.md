@@ -6,7 +6,7 @@ This repository contains the hackathon submission for "Building the Next-Gen Age
 2. **Demo Code** - The code for the app's demo.
 3. **PowerPoint Presentation** - A detailed presentation outlining the business problem and the proposed solution.
 
-# Instructions for the app:
+## Instructions for the app:
 
    To the run the app:
   - **Frontend**: Navigate to the *frontend* folder and run `npm start` to launch the frontend.
@@ -16,7 +16,7 @@ This repository contains the hackathon submission for "Building the Next-Gen Age
   - **Personas folder**: Includes code for the student, professor, and benefactor personas.
   - **Utilities folder**: Contains code for the ArangoDB database and helper functions.
 
-# About the Solution:
+## About the Solution:
 The solution aims to create an ecosystem for research that brings together students, professors, and benefactors (who fund research) under one unified platform. We have built agentic apps tailored to address the needs of each persona within this ecosystem.
 
 Assumptions Made for the App:

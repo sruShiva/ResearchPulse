@@ -24,6 +24,25 @@ Assumptions Made for the App (Demo):
 2. The app enriches data with external insights, providing relevant solutions to all three personas. This helps increase collaboration and facilitates sound decision-making across the research ecosystem.
 
 
+## Features of the app:
+1. Unified platform:
+   
+![image](https://github.com/user-attachments/assets/b689817a-e2f0-483c-a010-1585939056b7)
+
+2. Tailored set of Q&A for each persona and suggestive questions to give them a headstart:
+ 
+![image](https://github.com/user-attachments/assets/d5b2c22a-6baf-4760-8626-9a3ef84bce4a)
+
+3. Q&A support to answer all questions
+   
+![image](https://github.com/user-attachments/assets/a41b36b9-c89b-4105-9509-1310c61da8b7)
+
+
+
+
+
+
+
 
 
 

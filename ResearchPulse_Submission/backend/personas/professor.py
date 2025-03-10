@@ -208,7 +208,7 @@ class ProfessorPersona:
 
         "REMEMBER ONLY TELL THE NAME OF THE TOOL WORD TO WORD"
         )
-        tool_name = self.generate_content(system_prompt).text.strip()
+        tool_name = self.model.generate_content(system_prompt).text.strip()
         print(tool_name)
         if tool_name =="text_to_aql_to_text":
             return self.text_to_aql_to_text(query)

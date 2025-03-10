@@ -6,7 +6,7 @@ This repository contains the hackathon submission for "Building the Next-Gen Age
 2. **Demo Code** - The code for the app's demo.
 3. **PowerPoint Presentation** - A detailed presentation outlining the business problem and the proposed solution.
    
-## Agents used to achieve results:
+## Tools (custom agents) used for the code:
 1. text_to_aql_to_text – Transforms natural language into AQL queries and converts the results back into text.  
 2. text_to_nx_algorithm_to_text – Interprets natural language to apply specialized NetworkX algorithms and returns the results.  
 3. analyse_networkx – Performs graph analysis from a stakeholder perspective using advanced data analytics algorithms and provides insights.  
